@@ -1,0 +1,8 @@
+.weatherCont{
+    widows: 100%;
+    Height:100vh;
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    align-items:center;
+}
